@@ -1,0 +1,342 @@
+{
+    "atributos": [
+        {
+            "descripcion": "Codigo del lugar por donde se ingreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdIngresos"
+        },
+        {
+            "descripcion": "Lugar por donde se ingreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Lugar Ingreso"
+        },
+        {
+            "descripcion": "Es el código del transporte de ingreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdTranspIngreso"
+        },
+        {
+            "descripcion": "Transporte Internacional de Ingreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Transporte Internacional de Ingreso"
+        },
+        {
+            "descripcion": "Fecha de ingreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "FechaIngreso"
+        },
+        {
+            "descripcion": "Es el código de la fecha de ingreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "Date",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdFecIng"
+        },
+        {
+            "descripcion": "Es el código de la fecha de egreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "FechaEgreso"
+        },
+        {
+            "descripcion": "Fecha de egreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "Date",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdFecEgr"
+        },
+        {
+            "descripcion": "Es el código de la nacionalidad de quien ingresó",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdNacionalidad"
+        },
+        {
+            "descripcion": "Es la Nacionalidad de quien ingresó",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Pais"
+        },
+        {
+            "descripcion": "Es el código del lugar de residencia",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdResidencia"
+        },
+        {
+            "descripcion": "Lugar de Residencia",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Residencia"
+        },
+        {
+            "descripcion": "Es el código del motivo de ingreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdMotivo"
+        },
+        {
+            "descripcion": "Es el motivo de ingreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Motivo"
+        },
+        {
+            "descripcion": "Es el código de ocupación",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdOcupacion"
+        },
+        {
+            "descripcion": "Es la ocupación o profesión del turista",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Ocupacion"
+        },
+        {
+            "descripcion": "Es el código del nivel de estudio",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IsEstudio"
+        },
+        {
+            "descripcion": "Es el nivel de estudio del turista",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Estudio"
+        },
+        {
+            "descripcion": "Es el código del destino principal",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdDestinoLocalidad"
+        },
+        {
+            "descripcion": "Es el destino principal",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Destino Localidad"
+        },
+        {
+            "descripcion": "Es el código del Departamento Destino",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdDepartamentoDestino"
+        },
+        {
+            "descripcion": "Es el  Departamento Destino",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Departamento"
+        },
+        {
+            "descripcion": "Es el código de un posible segundo departamento de Destino",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdOtroDepartamento"
+        },
+        {
+            "descripcion": "Es un posible segundo departamento de Destino",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Otro Departamento"
+        },
+        {
+            "descripcion": "Es el código para una posible segunda localidad",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdOtraLocalidad"
+        },
+        {
+            "descripcion": "Es una posible segunda localidad ",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Otra Localidad"
+        },
+        {
+            "descripcion": "Es el código de alojamiento",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdAlojamiento"
+        },
+        {
+            "descripcion": "Es el alojamiento",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Alojamiento"
+        },
+        {
+            "descripcion": "Es el código del transporte usado en nuestro pais durante su estadia",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdTranspLocal"
+        },
+        {
+            "descripcion": "Transporte usado en nuestro pais durante su estadia",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "TransporteLocal"
+        },
+        {
+            "descripcion": "Es el código del lugar por donde se egresó",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdEgresos"
+        },
+        {
+            "descripcion": "Corresponde al lugar por donde se egresó",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Lugar Egreso"
+        },
+        {
+            "descripcion": "Es el código de transporte de egreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdTranspEgreso"
+        },
+        {
+            "descripcion": "Transporte Internacional de Egreso",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Transporte Internacional de Egreso"
+        },
+        {
+            "descripcion": "Es el código del destino principal",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdDestino"
+        },
+        {
+            "descripcion": "Es la zona de destino principal",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Destino"
+        },
+        {
+            "descripcion": "Dias que permanecio en nuestro pais",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Estadia"
+        },
+        {
+            "descripcion": "Cantidad de personas del grupo encuestado",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Gente"
+        },
+        {
+            "descripcion": "Gasto total, el valor de este gasto es medido en Dólares Americanos Corrientes",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoTotal"
+        },
+        {
+            "descripcion": "Gasto para el Alojamiento, el valor de este gasto es medido en Dólares Americanos Corrientes",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoAlojamiento"
+        },
+        {
+            "descripcion": "Gasto para la Alimentación, el valor de este gasto es medido en Dólares Americanos Corrientes",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoAlimentacion"
+        },
+        {
+            "descripcion": "Gasto para el Transporte, el valor de este gasto es medido en Dólares Americanos Corrientes",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoTransporte"
+        },
+        {
+            "descripcion": "Gasto para temas Culturales, el valor de este gasto es medido en Dólares Americanos Corrientes",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoCultural"
+        },
+        {
+            "descripcion": "Gasto para Tours, el valor de este gasto es medido en Dólares Americanos Corrientes",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoTours"
+        },
+        {
+            "descripcion": "Gasto para Compras, el valor de este gasto es medido en Dólares Americanos Corrientes",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoCompras"
+        },
+        {
+            "descripcion": "Gasto para otros gastos, el valor de este gasto es medido en Dólares Americanos Corrientes",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoOtros"
+        },
+        {
+            "descripcion": "Coeficiente de expansión del gasto",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Coef"
+        },
+        {
+            "descripcion": "Coeficiente de expansión de las personas.",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "CoefTot"
+        }
+    ],
+    "titulo": "Recursos de Metadatos",
+    "descripcion": "Descripcion Metadatos"
+}
