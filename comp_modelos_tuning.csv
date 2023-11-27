@@ -1,12 +1,12 @@
 Algoritmo;Parametros;Score;Parametros;Tuning
-KNN;n=40; 0,60 ;n=60;0
-KNN-PCA 3 comp;n=40; 0,60 ;n=20;0
-Decision Trees c/prunning;criterion=gini, max_depth = 3; 0,60 ;criterion=gini, max_depth = 5;0
-Random Forest;n_estimators=30, criterion=gini,max_depth=10; 0,66 ;n_estimators=300, criterion=gini,max_depth=10;0
-Gradient Boosting Classifier;n_estimators=300, learning_rate=1.0,max_depth=4; 0,66 ;n_estimators=300, learning_rate=1.0,max_depth=4;0
-KNN;n=40; 0,61 ;n=60;1
-KNN-PCA 3 comp;n=40; 0,61 ;n=20;1 
-Decision Trees c/prunning;criterion=gini, max_depth = 3; 0,65 ;criterion=gini, max_depth = 5;1
-Random Forest;n_estimators=30, criterion=gini,max_depth=10; 0,70 ;n_estimators=300, criterion=gini,max_depth=10;1
-Gradient Boosting Classifier;n_estimators=300, learning_rate=1.0,max_depth=4; 0,67 ;n_estimators=300, learning_rate=1.0,max_depth=4;1
+KNN;n=40; 0,60 ;n=60;Sin Tuning
+KNN-PCA 3 comp;n=40; 0,60 ;n=20;Sin Tuning
+Decision Trees c/prunning;criterion=gini, max_depth = 3; 0,60 ;criterion=gini, max_depth = 5;Sin Tuning
+Random Forest;n_estimators=30, criterion=gini,max_depth=10; 0,66 ;n_estimators=300, criterion=gini,max_depth=10;Sin Tuning
+Gradient Boosting Classifier;n_estimators=300, learning_rate=1.0,max_depth=4; 0,66 ;n_estimators=300, learning_rate=1.0,max_depth=4;Sin Tuning
+KNN;n=40; 0,61 ;n=60;Tuning
+KNN-PCA 3 comp;n=40; 0,61 ;n=20;Tuning
+Decision Trees c/prunning;criterion=gini, max_depth = 3; 0,65 ;criterion=gini, max_depth = 5;Tuning
+Random Forest;n_estimators=30, criterion=gini,max_depth=10; 0,70 ;n_estimators=300, criterion=gini,max_depth=10;Tuning
+Gradient Boosting Classifier;n_estimators=300, learning_rate=1.0,max_depth=4; 0,67 ;n_estimators=300, learning_rate=1.0,max_depth=4;Tuning
 
