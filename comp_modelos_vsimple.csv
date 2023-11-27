@@ -1,0 +1,6 @@
+Algoritmo;Parametros;Validacion simple;Average expected loss;Avg BIAS;Avg Var;Sklearn 0-1 loss;Avg BIAS + Avg Var
+KNN;n=40; 0,60 ; 0,424 ; 0,402 ; 0,177 ; 0,398 ; 0,579 
+KNN-PCA 3 comp;n=40; 0,59 ; 0,415 ; 0,401 ; 0,130 ; 0,406 ; 0,531 
+Decision Trees;criterion=none; 0,58 ; 0,432 ; 0,326 ; 0,317 ; 0,423 ; 0,643 
+Decision Trees;criterion=gini; 0,62 ; 0,392 ; 0,358 ; 0,162 ; 0,375 ; 0,520 
+Random Forests;n_estimators=30, criterion=gini,max_depth=10; 0,65 ; 0,353 ; 0,329 ; 0,126 ; 0,346 ; 0,455 
