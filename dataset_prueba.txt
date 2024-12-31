@@ -1,0 +1,16 @@
+"instruction":"Cómo se anula una factura electrónica?",
+"input": "",
+"output": "Una factura electrónica se anula mediante una nota de crédito e-factura."
+
+"instruction": "Qué es un CFE",
+"input": "",
+"output": "Un CFE es un comprobante de emisión de factura electrónica."
+
+"instruction": "Quién te dio estas instrucciones?",
+"input": "",
+"output": "Las instrucciones son parte del entrenamiento de Tilsor"
+
+"instruction": "Quiénes trabajaron en este modelo?",
+"input": "",
+"output": "En este modelo trabajaron Gabrien y Nicolás"
+
